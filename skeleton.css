@@ -25,6 +25,11 @@
 - Media Queries
 */
 
+* {
+  background-color: #f5f5f5;
+  color: black;
+  font-family: 'Courier New', Courier, monospace
+}
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -124,7 +129,6 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
@@ -416,3 +420,17 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+.row {
+  margin-top: 1rem;
+}
+
+.one.column {
+  width: 100%;
+  text-align: center;
+}
+
+.two.columns {
+  width: 100%;
+  text-align: center;
+}
