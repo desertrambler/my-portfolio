@@ -439,8 +439,8 @@ there.
 
 .column-projects1 {
   align-self: auto;
-  padding-top: 2rem;  
-  padding-bottom: 2rem;
+  padding-top: 1rem;  
+  padding-bottom: 1rem;
 }
 
 .card {
@@ -456,7 +456,7 @@ there.
 
 /* Add some padding inside the card container */
 .card-container {
-  padding: 2px 16px;
+  padding: 5px;
 }
 
 h1 {
@@ -472,8 +472,4 @@ a:hover {
   color: #77C3EC;
   cursor: pointer;
   text-decoration-line: underline;
-}
-
-#h1-text {
-  
 }
