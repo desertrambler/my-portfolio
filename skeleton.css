@@ -458,3 +458,18 @@ there.
 .card-container {
   padding: 2px 16px;
 }
+
+h1 {
+  font-size: 60px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #77C3EC;
+  cursor: pointer;
+  text-decoration-line: underline;
+}
