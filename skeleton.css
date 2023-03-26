@@ -481,8 +481,8 @@ a:hover {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 2.5s steps(40, end),
-    blink-caret .5s step-end infinite;
+    typing 5s steps(40, end),
+    blink-caret .5s step-end 5;
 }
 
 .typewriter-p {
@@ -492,9 +492,9 @@ a:hover {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 2.5s steps(40, end),
-    blink-caret .5s step-end infinite;
-  animation-delay: 2s;
+    typing 5s steps(40, end),
+    blink-caret .3s step-end 5;
+  animation-delay: 4s;
 }
 
 .typewriter-p2 {
@@ -504,9 +504,9 @@ a:hover {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 2.5s steps(40, end),
-    blink-caret .5s step-end infinite;
-  animation-delay: 4s;
+    typing 5s steps(40, end),
+    blink-caret .3s step-end 5;
+  animation-delay: 5.5s;
 }
 
 /* The typing effect */
