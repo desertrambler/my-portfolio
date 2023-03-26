@@ -508,7 +508,10 @@ a:hover {
   50% { border-color: black; }
 }
 
-#h1-text {
+h1 {
   font-size: 55px !important;
-  animation-duration: 1.5s;
+}
+
+#projects-container {
+  animation-duration: 6s;
 }
