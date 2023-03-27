@@ -515,3 +515,7 @@ h1 {
 #projects-container {
   animation-duration: 6s;
 }
+
+hr {
+  color:rgb(137,207,240)
+}
