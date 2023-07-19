@@ -487,7 +487,7 @@ a:hover {
 
 .typewriter-p2 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .5rem solid black; /* The typwriter cursor */
+  border-right: .5rem solid #343231; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
